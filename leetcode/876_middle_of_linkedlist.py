@@ -26,7 +26,20 @@ class Solution(object):
             head = head.next
             count+=1
         return head
-        """
-        :type head: ListNode
-        :rtype: ListNode
-        """
+    
+''' Another Approach using Two pointers'''
+
+class Solution:
+    def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        temp = head
+        slow,fast = temp,temp
+        while fast!=None and fast.next!=None:
+            slow=slow.next
+            fast=fast.next.next
+        return slow
+'''
+1. Take two pointer slow and fats.
+2. for each iteration, slow should  take one step and the fast should take two steps.
+3. So during their steps, when fast reach none or fast.next reaches none, the slow pointer will be at the middle of the linkedlist. 
+4. return that slow pointer node.
+'''
