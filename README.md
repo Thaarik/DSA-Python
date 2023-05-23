@@ -7,7 +7,8 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 ---|-------------------|-----------------|-----------------|--------------
 1 | [Two Sums](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1_Two_sums.py) | Easy | Array | Hashmap
 11 | [Container with Most Water](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/11_Container_With_Most_Water.py) | Medium | Array | Two pointer
-21 | [Merge Two Sorted List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/21_merge_two_sorted_lists.py) | Easy | Linked List | Sorting
+21 | [Merge Two Sorted List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/21_merge_two_sorted_lists.py) | Easy | LinkedList | Sorting
+23 | [Merge k Sorted List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/23_Merge_K_Sorted_lists.py) | Hard | LinkedList | Sorting
 75 | [Sort Colors](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/75_Sort_colors.py) | Medium | Array | Two pointer/Sorting Algorithm
 76 | [Remove Duplicates in Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/26_Remove_duplicates_from_sorted_array.py) | Easy | Array | Two pointer
 101 | [Symmetric Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/101_Symmetric_tree.py) | Easy | Tree | Recursion
