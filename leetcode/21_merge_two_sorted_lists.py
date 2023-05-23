@@ -59,3 +59,10 @@ class Solution:
         elif list2:
             temp.next=list2
         return dummy.next
+    
+''' Approach:
+1. Create a dummy linkedlist and assign its head equal to temp .
+2. while list 1 and list 2 contains elements, if a node in anyone of the list is smaller than the other, 
+    assign temp.next to that list and the list = its list.next so that it moves to the next node. Also do temp = temp.next to progress to the next node.
+3. After the while loop, if there is any nodes left in anone of the lists, link it to the resultant merged list. 
+'''
