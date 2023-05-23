@@ -6,6 +6,7 @@ Problems from Leetcode, Codewars etc.
 Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorithm
 ---|-------------------|-----------------|-----------------|--------------
 1 | [Two Sums](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1_Two_sums.py) | Easy | Array | Hashmap
+11 | [Container with Most Water](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/11_Container_With_Most_Water.py) | Medium | Array | Two pointer
 75 | [Sort Colors](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/75_Sort_colors.py) | Medium | Array | Two pointer/Sorting Algorithm
 76 | [Remove Duplicates in Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/26_Remove_duplicates_from_sorted_array.py) | Easy | Array | Two pointer
 101 | [Symmetric Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/101_Symmetric_tree.py) | Easy | Tree | Recursion
