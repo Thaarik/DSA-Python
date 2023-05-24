@@ -13,7 +13,8 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 76 | [Remove Duplicates in Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/26_Remove_duplicates_from_sorted_array.py) | Easy | Array | Two pointer
 101 | [Symmetric Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/101_Symmetric_tree.py) | Easy | Tree | Recursion
 125 | [Valid Palindrome](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/125_Valid_Palindrome.py) | Easy | String | Two pointer
-141 | [Linked List Cycle](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/141_LinkedList_Cycle.py) | Easy | LinkedList | Two pointer
+[141](https://leetcode.com/problems/linked-list-cycle/description/) | [Linked List Cycle](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/141_LinkedList_Cycle.py) | Easy | LinkedList | Two pointer
+[237](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Delete Node in a Linked List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/237_Delete_Node_in_a_Linked_List.py) | Medium | LinkedList | Two pointer
 344 | [Reverse String](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/344_reverse_strings.py) | Easy | String | Two pointer
 763 | [Partition Labels](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/763_Partition_labels.py) | Medium | Array | Hashmap
 771 | [Jewels and Stones](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/771_Jewels_and_Stones.py) | Easy | Array | Counter
