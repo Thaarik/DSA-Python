@@ -21,6 +21,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 763 | [Partition Labels](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/763_Partition_labels.py) | Medium | Array | Hashmap
 771 | [Jewels and Stones](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/771_Jewels_and_Stones.py) | Easy | Array | Counter
 876 | [Middle of the Linkedlist](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/876_middle_of_linkedlist.py) | Easy | LinkedList | Two pointer
+[904](https://leetcode.com/problems/fruit-into-baskets/description/) | [Fruit Into Baskets](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/904_Fruit_into_Basket.py) | Medium | Array | Sliding Window, Two Pointer
 922 | [Sort Array By Parity II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/922_Sort_Array_By_Parity_II.py) | Easy | Array | Two pointer
 1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1365_how_many_numbers_are_smaller_than_the_current_number.py) | Easy | Array | Hashmap
 
