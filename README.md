@@ -18,6 +18,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [203](https://leetcode.com/problems/remove-linked-list-elements/) | [Remove Linked List Elements](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/203_Remove_Linkedlist_Elements.py) | Easy | LinkedList | Two pointer
 [237](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Delete Node in a Linked List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/237_Delete_Node_in_a_Linked_List.py) | Medium | LinkedList | Two pointer
 344 | [Reverse String](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/344_reverse_strings.py) | Easy | String | Two pointer
+[643](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Maximum Average Subarray I](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/643_Maximum_Average_subarray_I.py) | Easy | Array | Sliding window
 763 | [Partition Labels](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/763_Partition_labels.py) | Medium | Array | Hashmap
 771 | [Jewels and Stones](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/771_Jewels_and_Stones.py) | Easy | Array | Counter
 876 | [Middle of the Linkedlist](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/876_middle_of_linkedlist.py) | Easy | LinkedList | Two pointer
