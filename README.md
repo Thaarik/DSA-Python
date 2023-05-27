@@ -10,6 +10,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/19_remove_nth_node_of_Linkedlist.py) | Medium | LinkedList | Two pointer
 21 | [Merge Two Sorted List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/21_merge_two_sorted_lists.py) | Easy | LinkedList | Sorting
 [23](https://leetcode.com/problems/merge-k-sorted-lists/) | [Merge k Sorted List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/23_Merge_K_Sorted_lists.py) | Hard | LinkedList | Sorting
+[35](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/35_search_Insert_Position.py) | Easy | Array | Binary Search
 75 | [Sort Colors](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/75_Sort_colors.py) | Medium | Array | Two pointer/Sorting Algorithm
 76 | [Remove Duplicates in Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/26_Remove_duplicates_from_sorted_array.py) | Easy | Array | Two pointer
 101 | [Symmetric Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/101_Symmetric_tree.py) | Easy | Tree | Recursion
