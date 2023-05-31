@@ -21,6 +21,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [237](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Delete Node in a Linked List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/237_Delete_Node_in_a_Linked_List.py) | Medium | LinkedList | Two pointer
 [239](https://leetcode.com/problems/sliding-window-maximum/description/) | [Sliding Window MAximum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/239_Sliding_Window.py) | Hard | Array(Deque) | Sliding Window
 344 | [Reverse String](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/344_reverse_strings.py) | Easy | String | Two pointer
+[349](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Intersection of Two Arrays](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/349_Intersection_of_Two_Array.py) | Easy | Array | Binary Search
 [643](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Maximum Average Subarray I](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/643_Maximum_Average_subarray_I.py) | Easy | Array | Sliding window
 [704](https://leetcode.com/problems/binary-search/description/) | [Binary Search](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/704_Binary_Search.py) | Easy | Array | Binary Search
 763 | [Partition Labels](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/763_Partition_labels.py) | Medium | Array | Hashmap
