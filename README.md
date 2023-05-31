@@ -20,6 +20,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [219](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Contains Duplicate II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/219_Contains_Duplicate_II.py) | Easy | Array | Hashmap
 [237](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Delete Node in a Linked List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/237_Delete_Node_in_a_Linked_List.py) | Medium | LinkedList | Two pointer
 [239](https://leetcode.com/problems/sliding-window-maximum/description/) | [Sliding Window MAximum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/239_Sliding_Window.py) | Hard | Array(Deque) | Sliding Window
+[278](https://leetcode.com/problems/first-bad-version/) | [First Bad Version](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/278_First_Bad_Version.py) | Easy | Array | Binary Search
 344 | [Reverse String](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/344_reverse_strings.py) | Easy | String | Two pointer
 [349](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Intersection of Two Arrays](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/349_Intersection_of_Two_Array.py) | Easy | Array | Binary Search
 [643](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Maximum Average Subarray I](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/643_Maximum_Average_subarray_I.py) | Easy | Array | Sliding window
