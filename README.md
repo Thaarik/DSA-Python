@@ -1,7 +1,8 @@
 # DSA-Python
-Problems and solutions of python for practice and reference.
+Problems and solutions of Leetcode problems.
 
-Problems from Leetcode, Codewars etc.
+Solved using python for practice and reference.
+
 
 Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorithm
 ---|-------------------|-----------------|-----------------|--------------
