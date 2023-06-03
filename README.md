@@ -35,6 +35,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [904](https://leetcode.com/problems/fruit-into-baskets/description/) | [Fruit Into Baskets](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/904_Fruit_into_Basket.py) | Medium | Array | Sliding Window, Two Pointer
 922 | [Sort Array By Parity II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/922_Sort_Array_By_Parity_II.py) | Easy | Array | Two pointer
 [1004](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | [ Max Consecutive Ones III](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1004_Max_Consecutive_Ones_III.py) | Medium | Array | Sliding window, Two pointer
-1365 | [How Many Numbers Are Smaller Than the Current Number](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1365_how_many_numbers_are_smaller_than_the_current_number.py) | Easy | Array | Hashmap
+[1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [How Many Numbers Are Smaller Than the Current Number](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1365_how_many_numbers_are_smaller_than_the_current_number.py) | Easy | Array | Hashmap
+[1428](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/) | [Minimum Number of Days to Make m Bouquets]() | Medium | Array | Binary Search
 
 
