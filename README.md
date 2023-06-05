@@ -10,6 +10,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 11 | [Container with Most Water](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/11_Container_With_Most_Water.py) | Medium | Array | Two pointer
 [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/19_remove_nth_node_of_Linkedlist.py) | Medium | LinkedList | Two pointer
 21 | [Merge Two Sorted List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/21_merge_two_sorted_lists.py) | Easy | LinkedList | Sorting
+[22](https://leetcode.com/problems/generate-parentheses/description/) | [Generate Paranthesis](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/22_Generate_Paranthesis.py) | Medium | Array | Recursion/Backtracking
 [23](https://leetcode.com/problems/merge-k-sorted-lists/) | [Merge k Sorted List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/23_Merge_K_Sorted_lists.py) | Hard | LinkedList | Sorting
 [33](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Search in Rotated SOrted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/33_Search_in_Rotated_Sorted_Array.py) | Medium | Array | Binary Search
 [35](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/35_search_Insert_Position.py) | Easy | Array | Binary Search
