@@ -12,6 +12,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 21 | [Merge Two Sorted List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/21_merge_two_sorted_lists.py) | Easy | LinkedList | Sorting
 [22](https://leetcode.com/problems/generate-parentheses/description/) | [Generate Paranthesis](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/22_Generate_Paranthesis.py) | Medium | Array | Recursion/Backtracking
 [23](https://leetcode.com/problems/merge-k-sorted-lists/) | [Merge k Sorted List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/23_Merge_K_Sorted_lists.py) | Hard | LinkedList | Sorting
+[24](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Swap nodes in pairs](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/24_Swap_nodes_in_Pairs.py) | Medium | LinkedList | Recursion
 [33](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Search in Rotated SOrted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/33_Search_in_Rotated_Sorted_Array.py) | Medium | Array | Binary Search
 [35](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/35_search_Insert_Position.py) | Easy | Array | Binary Search
 75 | [Sort Colors](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/75_Sort_colors.py) | Medium | Array | Two pointer/Sorting Algorithm
@@ -25,7 +26,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [237](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Delete Node in a Linked List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/237_Delete_Node_in_a_Linked_List.py) | Medium | LinkedList | Two pointer
 [239](https://leetcode.com/problems/sliding-window-maximum/description/) | [Sliding Window MAximum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/239_Sliding_Window.py) | Hard | Array(Deque) | Sliding Window
 [278](https://leetcode.com/problems/first-bad-version/) | [First Bad Version](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/278_First_Bad_Version.py) | Easy | Array | Binary Search
-344 | [Reverse String](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/344_reverse_strings.py) | Easy | String | Two pointer
+[344](https://leetcode.com/problems/reverse-string/) | [Reverse String](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/344_reverse_strings.py) | Easy | String | Two pointer/Recursion
 [349](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Intersection of Two Arrays](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/349_Intersection_of_Two_Array.py) | Easy | Array | Binary Search
 [441](https://leetcode.com/problems/arranging-coins/description/) | [Arranging coins](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/441_Arranging_Coins.py) | Easy | Array | Binary Search
 [643](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Maximum Average Subarray I](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/643_Maximum_Average_subarray_I.py) | Easy | Array | Sliding window
