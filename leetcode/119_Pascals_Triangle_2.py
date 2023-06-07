@@ -40,3 +40,20 @@ class Solution:
                 else:
                     row[i].append(row[i-1][j-1]+row[i-1][j]) #if not then add the previous indexes value
         return row[-1] #last value
+    
+
+        '''recursive Approach'''
+        # Base case: First row
+        if rowIndex == 0:
+            return [1]
+
+        # Recursive case
+        prev_row = self.getRow(rowIndex - 1)
+        row = [1]  # First element is always 1
+
+        for i in range(1, rowIndex):
+            row.append(prev_row[i - 1] + prev_row[i])
+
+        row.append(1)  # Last element is always 1
+
+        return row
