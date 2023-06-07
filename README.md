@@ -18,6 +18,8 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 75 | [Sort Colors](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/75_Sort_colors.py) | Medium | Array | Two pointer/Sorting Algorithm
 76 | [Remove Duplicates in Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/26_Remove_duplicates_from_sorted_array.py) | Easy | Array | Two pointer
 101 | [Symmetric Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/101_Symmetric_tree.py) | Easy | Tree | Recursion
+[118](https://leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/118_Pascals_triangle.py) | Easy | Array | Iteration
+[119](https://leetcode.com/problems/pascals-triangle-ii/) | [Pascal's Triangle II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/119_Pascals_Triangle_2.py) | Easy | Array | Iteration/Recursion
 125 | [Valid Palindrome](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/125_Valid_Palindrome.py) | Easy | String | Two pointer
 [141](https://leetcode.com/problems/linked-list-cycle/description/) | [Linked List Cycle](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/141_LinkedList_Cycle.py) | Easy | LinkedList | Two pointer
 [162](https://leetcode.com/problems/find-peak-element/description/) | [Find Peak Elements](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/162_Find_Peak_Element.py) | Medium | Array | Binary Search
