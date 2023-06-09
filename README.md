@@ -31,6 +31,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [344](https://leetcode.com/problems/reverse-string/) | [Reverse String](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/344_reverse_strings.py) | Easy | String | Two pointer/Recursion
 [349](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Intersection of Two Arrays](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/349_Intersection_of_Two_Array.py) | Easy | Array | Binary Search
 [441](https://leetcode.com/problems/arranging-coins/description/) | [Arranging coins](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/441_Arranging_Coins.py) | Easy | Array | Binary Search
+[509](https://leetcode.com/problems/fibonacci-number/) | [Fibonacci Number](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/509_Fibonacci_Number.py) | Easy | - | Recursion
 [643](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Maximum Average Subarray I](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/643_Maximum_Average_subarray_I.py) | Easy | Array | Sliding window
 [700](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Search in Binary Search Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/700_Search_BST.py) | Easy | Tree | Recursive/ Iteration/BST
 [704](https://leetcode.com/problems/binary-search/description/) | [Binary Search](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/704_Binary_Search.py) | Easy | Array | Binary Search
