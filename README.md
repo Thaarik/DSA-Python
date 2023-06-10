@@ -6,10 +6,11 @@ Solved using python for practice and reference.
 
 Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorithm
 ---|-------------------|-----------------|-----------------|--------------
-1 | [Two Sums](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1_Two_sums.py) | Easy | Array | Hashmap
+[1](https://leetcode.com/problems/two-sum/) | [Two Sums](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1_Two_sums.py) | Easy | Array | Hashmap
 11 | [Container with Most Water](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/11_Container_With_Most_Water.py) | Medium | Array | Two pointer
 [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/19_remove_nth_node_of_Linkedlist.py) | Medium | LinkedList | Two pointer
-21 | [Merge Two Sorted List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/21_merge_two_sorted_lists.py) | Easy | LinkedList | Sorting
+[20](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/20_Valid_Paranthesis.py) | Easy | Stack | Iteration/Hashmap 
+[21](https://leetcode.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/21_merge_two_sorted_lists.py) | Easy | LinkedList | Sorting
 [22](https://leetcode.com/problems/generate-parentheses/description/) | [Generate Paranthesis](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/22_Generate_Paranthesis.py) | Medium | Array | Recursion/Backtracking
 [23](https://leetcode.com/problems/merge-k-sorted-lists/) | [Merge k Sorted List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/23_Merge_K_Sorted_lists.py) | Hard | LinkedList | Sorting
 [24](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Swap nodes in pairs](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/24_Swap_nodes_in_Pairs.py) | Medium | LinkedList | Recursion
@@ -18,14 +19,18 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 75 | [Sort Colors](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/75_Sort_colors.py) | Medium | Array | Two pointer/Sorting Algorithm
 76 | [Remove Duplicates in Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/26_Remove_duplicates_from_sorted_array.py) | Easy | Array | Two pointer
 101 | [Symmetric Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/101_Symmetric_tree.py) | Easy | Tree | Recursion
+[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Maximum Depth of Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/104_Maximum_depth_of_Binary_tree.py) | Easy | tree | BFS/Recursion  
 [118](https://leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/118_Pascals_triangle.py) | Easy | Array | Iteration
 [119](https://leetcode.com/problems/pascals-triangle-ii/) | [Pascal's Triangle II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/119_Pascals_Triangle_2.py) | Easy | Array | Iteration/Recursion
-125 | [Valid Palindrome](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/125_Valid_Palindrome.py) | Easy | String | Two pointer
+[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/121_Best_time_to_buy_and_sell_stock.py) | Easy | Array | Sliding Window
+[125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/125_Valid_Palindrome.py) | Easy | String | Two pointer
 [141](https://leetcode.com/problems/linked-list-cycle/description/) | [Linked List Cycle](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/141_LinkedList_Cycle.py) | Easy | LinkedList | Two pointer
 [162](https://leetcode.com/problems/find-peak-element/description/) | [Find Peak Elements](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/162_Find_Peak_Element.py) | Medium | Array | Binary Search
 [203](https://leetcode.com/problems/remove-linked-list-elements/) | [Remove Linked List Elements](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/203_Remove_Linkedlist_Elements.py) | Easy | LinkedList | Two pointer
+[206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/206_Reverse_LinkedList.py) | Easy | LinkedList | Iteration/Recursive
 [217](https://leetcode.com/problems/contains-duplicate/) | [Contains Duplicate](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/217_Contains_Duplicates.py) | Easy | Array | - 
 [219](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Contains Duplicate II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/219_Contains_Duplicate_II.py) | Easy | Array | Hashmap
+[226](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/226_Invert_BInary_Tree.py) | Easy | Tree | Recursion
 [237](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Delete Node in a Linked List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/237_Delete_Node_in_a_Linked_List.py) | Medium | LinkedList | Two pointer
 [239](https://leetcode.com/problems/sliding-window-maximum/description/) | [Sliding Window MAximum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/239_Sliding_Window.py) | Hard | Array(Deque) | Sliding Window
 [242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/242_Valid_Anagram.py) | Easy | Array | -
