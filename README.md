@@ -24,6 +24,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [141](https://leetcode.com/problems/linked-list-cycle/description/) | [Linked List Cycle](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/141_LinkedList_Cycle.py) | Easy | LinkedList | Two pointer
 [162](https://leetcode.com/problems/find-peak-element/description/) | [Find Peak Elements](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/162_Find_Peak_Element.py) | Medium | Array | Binary Search
 [203](https://leetcode.com/problems/remove-linked-list-elements/) | [Remove Linked List Elements](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/203_Remove_Linkedlist_Elements.py) | Easy | LinkedList | Two pointer
+[217](https://leetcode.com/problems/contains-duplicate/) | [Contains Duplicate](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/217_Contains_Duplicates.py) | Easy | Array | - 
 [219](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Contains Duplicate II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/219_Contains_Duplicate_II.py) | Easy | Array | Hashmap
 [237](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Delete Node in a Linked List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/237_Delete_Node_in_a_Linked_List.py) | Medium | LinkedList | Two pointer
 [239](https://leetcode.com/problems/sliding-window-maximum/description/) | [Sliding Window MAximum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/239_Sliding_Window.py) | Hard | Array(Deque) | Sliding Window
