@@ -42,7 +42,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [643](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Maximum Average Subarray I](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/643_Maximum_Average_subarray_I.py) | Easy | Array | Sliding window
 [700](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Search in Binary Search Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/700_Search_BST.py) | Easy | Tree | Recursive/ Iteration/BST
 [704](https://leetcode.com/problems/binary-search/description/) | [Binary Search](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/704_Binary_Search.py) | Easy | Array | Binary Search
-763 | [Partition Labels](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/763_Partition_labels.py) | Medium | Array | Hashmap
+[763](https://leetcode.com/problems/partition-labels/) | [Partition Labels](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/763_Partition_labels.py) | Medium | Array | Hashmap
 771 | [Jewels and Stones](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/771_Jewels_and_Stones.py) | Easy | Array | Counter
 [875](https://leetcode.com/problems/koko-eating-bananas/description/) | [Koko Eating Bananas](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/875_Koko_Eating_Bananas.py) | Medium | Array | Binary Search
 [876](https://leetcode.com/problems/middle-of-the-linked-list/) | [Middle of the Linkedlist](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/876_middle_of_linkedlist.py) | Easy | LinkedList | Two pointer
