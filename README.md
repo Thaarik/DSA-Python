@@ -19,7 +19,8 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 75 | [Sort Colors](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/75_Sort_colors.py) | Medium | Array | Two pointer/Sorting Algorithm
 76 | [Remove Duplicates in Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/26_Remove_duplicates_from_sorted_array.py) | Easy | Array | Two pointer
 101 | [Symmetric Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/101_Symmetric_tree.py) | Easy | Tree | Recursion
-[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Maximum Depth of Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/104_Maximum_depth_of_Binary_tree.py) | Easy | tree | BFS/Recursion  
+[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Maximum Depth of Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/104_Maximum_depth_of_Binary_tree.py) | Easy | tree | BFS/Recursion 
+[110](https://leetcode.com/problems/balanced-binary-tree/description/) | [Balanced Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/110_Balanced_Binary_Tree.py) | Easy | Tree | Recursion 
 [118](https://leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/118_Pascals_triangle.py) | Easy | Array | Iteration
 [119](https://leetcode.com/problems/pascals-triangle-ii/) | [Pascal's Triangle II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/119_Pascals_Triangle_2.py) | Easy | Array | Iteration/Recursion
 [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/121_Best_time_to_buy_and_sell_stock.py) | Easy | Array | Sliding Window
