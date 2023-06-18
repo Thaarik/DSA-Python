@@ -18,6 +18,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [35](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/35_search_Insert_Position.py) | Easy | Array | Binary Search
 75 | [Sort Colors](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/75_Sort_colors.py) | Medium | Array | Two pointer/Sorting Algorithm
 76 | [Remove Duplicates in Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/26_Remove_duplicates_from_sorted_array.py) | Easy | Array | Two pointer
+[100](https://leetcode.com/problems/same-tree/) | [Same Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/100_Same_Tree.py) | Easy | Tree | Recursion
 101 | [Symmetric Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/101_Symmetric_tree.py) | Easy | Tree | Recursion
 [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Maximum Depth of Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/104_Maximum_depth_of_Binary_tree.py) | Easy | tree | BFS/Recursion 
 [110](https://leetcode.com/problems/balanced-binary-tree/description/) | [Balanced Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/110_Balanced_Binary_Tree.py) | Easy | Tree | Recursion 
