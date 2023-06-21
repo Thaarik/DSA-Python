@@ -16,6 +16,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [24](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Swap nodes in pairs](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/24_Swap_nodes_in_Pairs.py) | Medium | LinkedList | Recursion
 [33](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Search in Rotated SOrted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/33_Search_in_Rotated_Sorted_Array.py) | Medium | Array | Binary Search
 [35](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/35_search_Insert_Position.py) | Easy | Array | Binary Search
+[46](https://leetcode.com/problems/permutations/description/) | [Permutations](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/46_Permutations.py) | Medium | Array | Recursion/Backtracking
 75 | [Sort Colors](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/75_Sort_colors.py) | Medium | Array | Two pointer/Sorting Algorithm
 76 | [Remove Duplicates in Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/26_Remove_duplicates_from_sorted_array.py) | Easy | Array | Two pointer
 [100](https://leetcode.com/problems/same-tree/) | [Same Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/100_Same_Tree.py) | Easy | Tree | Recursion
