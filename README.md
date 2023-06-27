@@ -52,6 +52,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [704](https://leetcode.com/problems/binary-search/description/) | [Binary Search](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/704_Binary_Search.py) | Easy | Array | Binary Search
 [763](https://leetcode.com/problems/partition-labels/) | [Partition Labels](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/763_Partition_labels.py) | Medium | Array | Hashmap
 [771](https://leetcode.com/problems/jewels-and-stones/) | [Jewels and Stones](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/771_Jewels_and_Stones.py) | Easy | Array | Counter
+[784](https://leetcode.com/problems/letter-case-permutation/description/) | [Jewels and Stones](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/784_Letter_Case_Permutation.py) | Medium | Array | Backtracking/Iteration
 [875](https://leetcode.com/problems/koko-eating-bananas/description/) | [Koko Eating Bananas](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/875_Koko_Eating_Bananas.py) | Medium | Array | Binary Search
 [876](https://leetcode.com/problems/middle-of-the-linked-list/) | [Middle of the Linkedlist](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/876_middle_of_linkedlist.py) | Easy | LinkedList | Two pointer
 [904](https://leetcode.com/problems/fruit-into-baskets/description/) | [Fruit Into Baskets](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/904_Fruit_into_Basket.py) | Medium | Array | Sliding Window, Two Pointer
