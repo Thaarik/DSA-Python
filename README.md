@@ -7,7 +7,8 @@ Solved using python for practice and reference.
 Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorithm
 ---|-------------------|-----------------|-----------------|--------------
 [1](https://leetcode.com/problems/two-sum/) | [Two Sums](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1_Two_sums.py) | Easy | Array | Hashmap
-11 | [Container with Most Water](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/11_Container_With_Most_Water.py) | Medium | Array | Two pointer
+[11](https://leetcode.com/problems/container-with-most-water/) | [Container with Most Water](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/11_Container_With_Most_Water.py) | Medium | Array | Two pointer
+[17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Letter Combinations of a Phone Number](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/17_Letter_Combinations_of_a_Phone_Number.py) | Medium | Array | Backtracking/Recursion
 [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/19_remove_nth_node_of_Linkedlist.py) | Medium | LinkedList | Two pointer
 [20](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/20_Valid_Paranthesis.py) | Easy | Stack | Iteration/Hashmap 
 [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/21_merge_two_sorted_lists.py) | Easy | LinkedList | Sorting
@@ -18,8 +19,8 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [35](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/35_search_Insert_Position.py) | Easy | Array | Binary Search
 [36](https://leetcode.com/problems/combination-sum/description/) | [Combination Sum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/39_Combination_Sum.py) | Medium | Array | Recursion/Backtracking
 [46](https://leetcode.com/problems/permutations/description/) | [Permutations](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/46_Permutations.py) | Medium | Array | Recursion/Backtracking
-75 | [Sort Colors](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/75_Sort_colors.py) | Medium | Array | Two pointer/Sorting Algorithm
-76 | [Remove Duplicates in Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/26_Remove_duplicates_from_sorted_array.py) | Easy | Array | Two pointer
+[75](https://leetcode.com/problems/sort-colors/) | [Sort Colors](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/75_Sort_colors.py) | Medium | Array | Two pointer/Sorting Algorithm
+[76](https://leetcode.com/problems/minimum-window-substring/) | [Remove Duplicates in Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/26_Remove_duplicates_from_sorted_array.py) | Easy | Array | Two pointer
 [78](https://leetcode.com/problems/subsets/) | [Subsets](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/78_Subsets.py) | Medium | Array | Recursion/Backtracking
 [79](https://leetcode.com/problems/word-search/description/) | [Word Search](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/79_Word_search.py) | Medium | Array | Recursion/Backtracking
 [100](https://leetcode.com/problems/same-tree/) | [Same Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/100_Same_Tree.py) | Easy | Tree | Recursion
