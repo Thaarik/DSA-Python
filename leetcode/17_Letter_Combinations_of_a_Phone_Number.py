@@ -57,10 +57,10 @@ class Solution:
         backtrack(digits,current,0)
         return result
                 
-     '''Approach:
+'''Approach:
         1. Backtracking 
         2. First create the keypad dict
         3. Follow the same backtrack template.
         4. For every list value present in each keypad key, call the backtrack function by appending the current value. The 'numberindex' denotes the index of key (number representation) of the keypad.
         5. when the len of current string = len of the given target, then append it into the result. This will be our base case
-     '''   
+'''   
