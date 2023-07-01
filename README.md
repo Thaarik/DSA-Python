@@ -20,6 +20,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [39](https://leetcode.com/problems/combination-sum/description/) | [Combination Sum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/39_Combination_Sum.py) | Medium | Array | Recursion/Backtracking
 [40](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/39_Combination_Sum_II.py) | Medium | Array | Recursion/Backtracking
 [46](https://leetcode.com/problems/permutations/description/) | [Permutations](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/46_Permutations.py) | Medium | Array | Recursion/Backtracking
+[47](https://leetcode.com/problems/permutations-ii/description/) | [Permutations](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/46_Permutations_II.py) | Medium | Array | Recursion/Backtracking
 [75](https://leetcode.com/problems/sort-colors/) | [Sort Colors](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/75_Sort_colors.py) | Medium | Array | Two pointer/Sorting Algorithm
 [76](https://leetcode.com/problems/minimum-window-substring/) | [Remove Duplicates in Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/26_Remove_duplicates_from_sorted_array.py) | Easy | Array | Two pointer
 [77](https://leetcode.com/problems/combinations/description/) | [Combinations](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/77_Combinations.py) | Medium | Array | Backtracking/Recursion
