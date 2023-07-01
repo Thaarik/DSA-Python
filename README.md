@@ -47,6 +47,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [278](https://leetcode.com/problems/first-bad-version/) | [First Bad Version](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/278_First_Bad_Version.py) | Easy | Array | Binary Search
 [344](https://leetcode.com/problems/reverse-string/) | [Reverse String](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/344_reverse_strings.py) | Easy | String | Two pointer/Recursion
 [349](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Intersection of Two Arrays](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/349_Intersection_of_Two_Array.py) | Easy | Array | Binary Search
+[377](https://leetcode.com/problems/combination-sum-iv/description/)|[Combination Sum IV](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/377_Combination_Sum_IV.py)| Medium | Array | Backtracking/Recursion/Dynamic Programming
 [441](https://leetcode.com/problems/arranging-coins/description/) | [Arranging coins](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/441_Arranging_Coins.py) | Easy | Array | Binary Search
 [509](https://leetcode.com/problems/fibonacci-number/) | [Fibonacci Number](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/509_Fibonacci_Number.py) | Easy | - | Recursion
 [543](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Diameter of a Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/543_Diameter_of_Binary_Tree.py) | Easy | Tree | Recursion/DFS
