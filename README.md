@@ -37,6 +37,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/125_Valid_Palindrome.py) | Easy | String | Two pointer
 [141](https://leetcode.com/problems/linked-list-cycle/description/) | [Linked List Cycle](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/141_LinkedList_Cycle.py) | Easy | LinkedList | Two pointer
 [162](https://leetcode.com/problems/find-peak-element/description/) | [Find Peak Elements](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/162_Find_Peak_Element.py) | Medium | Array | Binary Search
+[200](https://leetcode.com/problems/number-of-islands/description/) | [Number of Islands](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/200_Number_of_Islands.py) | Medium | 2D Array | BFS/DFS
 [203](https://leetcode.com/problems/remove-linked-list-elements/) | [Remove Linked List Elements](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/203_Remove_Linkedlist_Elements.py) | Easy | LinkedList | Two pointer
 [206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/206_Reverse_LinkedList.py) | Easy | LinkedList | Iteration/Recursive
 [216](https://leetcode.com/problems/combination-sum-iii/description/) | [Combination Sum II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/216_Combination_Sum_II.py) | Medium | Array | Backtracking/Recursion
