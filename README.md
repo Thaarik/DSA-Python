@@ -54,6 +54,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [441](https://leetcode.com/problems/arranging-coins/description/) | [Arranging coins](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/441_Arranging_Coins.py) | Easy | Array | Binary Search
 [509](https://leetcode.com/problems/fibonacci-number/) | [Fibonacci Number](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/509_Fibonacci_Number.py) | Easy | - | Recursion
 [543](https://leetcode.com/problems/diameter-of-binary-tree/description/) | [Diameter of a Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/543_Diameter_of_Binary_Tree.py) | Easy | Tree | Recursion/DFS
+[547](https://leetcode.com/problems/number-of-provinces/description/) | [Number of provinces](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/547_Number_of_Provinces.py) | Medium | 2D Array | Recursion/DFS
 [572](https://leetcode.com/problems/subtree-of-another-tree/description/) | [Subtree of Another tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/572_Subtree_of_Another_Tree.py) | Easy | Tree | Recursion
 [643](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Maximum Average Subarray I](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/643_Maximum_Average_subarray_I.py) | Easy | Array | Sliding window
 [695](https://leetcode.com/problems/max-area-of-island/description/) | [Max Area of Island](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/695_max_area_of_island.py) | Medium | 2DArray | BFS
