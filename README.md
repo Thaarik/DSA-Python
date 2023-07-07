@@ -26,7 +26,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [76](https://leetcode.com/problems/minimum-window-substring/) | [Remove Duplicates in Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/26_Remove_duplicates_from_sorted_array.py) | Easy | Array | Two pointer
 [77](https://leetcode.com/problems/combinations/description/) | [Combinations](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/77_Combinations.py) | Medium | Array | Backtracking/Recursion
 [78](https://leetcode.com/problems/subsets/) | [Subsets](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/78_Subsets.py) | Medium | Array | Recursion/Backtracking
-[79](https://leetcode.com/problems/word-search/description/) | [Word Search](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/79_Word_search.py) | Medium | Array | Recursion/Backtracking
+[79](https://leetcode.com/problems/word-search/description/) | [Word Search](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/79_Word_search.py) | Medium | Array | Backtracking
 [100](https://leetcode.com/problems/same-tree/) | [Same Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/100_Same_Tree.py) | Easy | Tree | Recursion
 101 | [Symmetric Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/101_Symmetric_tree.py) | Easy | Tree | Recursion
 [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Maximum Depth of Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/104_Maximum_depth_of_Binary_tree.py) | Easy | tree | BFS/Recursion 
