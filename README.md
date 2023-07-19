@@ -73,6 +73,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [922](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Sort Array By Parity II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/922_Sort_Array_By_Parity_II.py) | Easy | Array | Two pointer
 [944](https://leetcode.com/problems/rotting-oranges/description//) | [Rotting Oranges](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/944_Rotting_Oranges.py) | Medium | 2D Array | BFS
 [1004](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | [ Max Consecutive Ones III](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1004_Max_Consecutive_Ones_III.py) | Medium | Array | Sliding window, Two pointer
+[1254](https://leetcode.com/problems/number-of-closed-islands/description/) | [Number of Closed Islands](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1254_Number_of_Closed_Islands.py) | Medium | 2DArray | DFS
 [1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [How Many Numbers Are Smaller Than the Current Number](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1365_how_many_numbers_are_smaller_than_the_current_number.py) | Easy | Array | Hashmap
 [1428](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/) | [Minimum Number of Days to Make m Bouquets](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1482_Minimum_Number_of_Days_to_Make_m_Bouquets.py) | Medium | Array | Binary Search
 
