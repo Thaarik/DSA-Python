@@ -50,6 +50,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [237](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Delete Node in a Linked List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/237_Delete_Node_in_a_Linked_List.py) | Medium | LinkedList | Two pointer
 [239](https://leetcode.com/problems/sliding-window-maximum/description/) | [Sliding Window MAximum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/239_Sliding_Window.py) | Hard | Array(Deque) | Sliding Window
 [242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/242_Valid_Anagram.py) | Easy | Array | -
+[256](https://www.lintcode.com/problem/515/)|[256_Paint_House](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/256_Paint_House.py) | Medium | 2D Array | Dynamic Programming
 [278](https://leetcode.com/problems/first-bad-version/) | [First Bad Version](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/278_First_Bad_Version.py) | Easy | Array | Binary Search
 [344](https://leetcode.com/problems/reverse-string/) | [Reverse String](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/344_reverse_strings.py) | Easy | String | Two pointer/Recursion
 [349](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Intersection of Two Arrays](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/349_Intersection_of_Two_Array.py) | Easy | Array | Binary Search
