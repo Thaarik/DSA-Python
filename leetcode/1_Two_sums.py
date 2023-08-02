@@ -53,3 +53,24 @@ APPROACH:
 4. If that subtracted element is present in the hashmap, then return the value(index). Else, add that array element as key and its index as value in the hasmap.
 
 '''
+
+'''
+Javascript
+
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {
+    let hashmap = new Map();
+    for (let i=nums.length-1;i>=0;i--){
+        let diff = target-nums[i];
+        if(hashmap.has(nums[i])){
+            return [hashmap.get(nums[i]),i]
+        }
+        hashmap.set(diff,i)
+    }
+};
+// we are going to store the difference between target and current nums[i] value as key and the index i as value.we are returning the answer when nums[i] is present in the keys of the hashmap.
+'''

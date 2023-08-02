@@ -71,4 +71,31 @@ class Solution:
             return False
         return True
 
+'''
+Javascript
+
+/**
+ * @param {string} s
+ * @return {boolean}
+ */
+var isValid = function(s) {
+    let stack = []
+    for (let i=s.length-1;i>=0;i--){
+        if (s.charAt(i)===')' || s.charAt(i)===']' || s.charAt(i)==='}'){
+            stack.push(s.charAt(i))
+        }else {
+            if((stack[stack.length-1]===')' && s.charAt(i)==='(') || stack[stack.length-1]===']' && s.charAt(i)==='[' || stack[stack.length-1]==='}' && s.charAt(i)==='{'){
+            stack.pop()
+        }else{
+            stack.push(s.charAt(i))
+        }
+        }
+    }
+    if(stack.length===0){
+        return true
+    }
+    return false
+    
+};
+'''
                  
