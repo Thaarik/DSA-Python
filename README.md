@@ -45,7 +45,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [203](https://leetcode.com/problems/remove-linked-list-elements/) | [Remove Linked List Elements](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/203_Remove_Linkedlist_Elements.py) | Easy | LinkedList | Two pointer
 [206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/206_Reverse_LinkedList.py) | Easy | LinkedList | Iteration/Recursive
 [207](https://leetcode.com/problems/course-schedule/description/) | [Course Schedule](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/207_Course_Schedule.py) | Medium | 2D Array | DFS
-[216](https://leetcode.com/problems/combination-sum-iii/description/) | [Combination Sum II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/216_Combination_Sum_II.py) | Medium | Array | Backtracking/Recursion
+[216](https://leetcode.com/problems/combination-sum-iii/description/) | [Combination Sum II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/216_Combination_Sum_II.py) | Medium | Array | Backtracking
 [217](https://leetcode.com/problems/contains-duplicate/) | [Contains Duplicate](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/217_Contains_Duplicates.py) | Easy | Array | - 
 [219](https://leetcode.com/problems/contains-duplicate-ii/description/) | [Contains Duplicate II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/219_Contains_Duplicate_II.py) | Easy | Array | Hashmap
 [226](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/226_Invert_BInary_Tree.py) | Easy | Tree | Recursion
