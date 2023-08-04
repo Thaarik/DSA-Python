@@ -59,3 +59,23 @@ Approach:
 4. When the character in left and right index are not same, return False.
 5. When they are same, just move on till the left and right pointer meets at the center and return true.
 '''
+
+#JavaScript
+# var isPalindrome = function(s) {
+#     let str = []
+#         for(let i=0;i<s.length;i++){
+#                 if(/[a-zA-Z0-9]/.test(s[i])){ // checks whether the char is alphabet or number
+#                     str.push(s[i].toLowerCase())
+#                 }
+#         }
+#         let left=0;
+#         let right=str.length-1;
+#         while(left<=right){
+#             if(str[left]!==str[right]){
+#                 return false;
+#             }
+#             left++;
+#             right--;
+#         }
+#         return true;
+# };

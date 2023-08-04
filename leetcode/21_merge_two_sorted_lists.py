@@ -66,3 +66,41 @@ class Solution:
     assign temp.next to that list and the list = its list.next so that it moves to the next node. Also do temp = temp.next to progress to the next node.
 3. After the while loop, if there is any nodes left in anone of the lists, link it to the resultant merged list. 
 '''
+
+# JavaScript
+# var mergeTwoLists = function(list1, list2) {
+    # //iterative
+    # // let dummy = new ListNode();
+    # // let temp = dummy;
+    # // while(list1 && list2){
+    # //     if(list1.val<=list2.val){
+    # //         temp.next = list1;
+    # //         list1=list1.next
+    # //     }else if(list1.val>list2.val){
+    # //         temp.next=list2;
+    # //         list2=list2.next;
+    # //     }
+    # //     temp=temp.next;
+    # // }
+    # // if(list1){
+    # //     temp.next=list1;
+    # // }else if(list2){
+    # //     temp.next=list2;
+    # // }
+    # // return dummy.next;
+
+    # //recursion
+#     if(!list1){
+#         return list2;
+#     }
+#     if(!list2){
+#         return list1;
+#     }
+#     if(list1.val<list2.val){
+#         list1.next=mergeTwoLists(list1.next,list2);
+#         return list1;
+#     }else {
+#         list2.next=mergeTwoLists(list1,list2.next);
+#         return list2;
+#     }
+# };

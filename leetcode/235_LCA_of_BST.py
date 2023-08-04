@@ -60,3 +60,18 @@ class Solution:
                 curr = curr.left
             else:
                 return curr
+            
+#JavaScript
+
+# var lowestCommonAncestor = function(root, p, q) {
+#     let curr = root;
+#     while(curr){
+#         if(curr.val<p.val && curr.val<q.val){
+#             curr=curr.right;
+#         } else if(curr.val>p.val && curr.val>q.val){
+#             curr=curr.left;
+#         } else{
+#             return curr;
+#         }
+#     }
+# };

@@ -62,3 +62,20 @@ class Solution:
     3. if the absolute diff between the height of two subtree is greater than 1, return false
     4. else recursively continue the comparision of heights of each nodes until it hits the leaf node carrying True value.
     '''
+
+    #JavaScript
+#     var isBalanced = function(root) {
+#     function height(root){
+#         if(!root){
+#             return 0
+#         }
+#         return 1+Math.max(height(root.left),height(root.right))
+#     }
+#     if (!root){
+#         return true;
+#     }
+#     if(Math.abs(height(root.left)-height(root.right))>1){
+#         return false;
+#     }
+#     return isBalanced(root.left) && isBalanced(root.right);
+# };

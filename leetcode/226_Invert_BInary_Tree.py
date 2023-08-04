@@ -42,4 +42,19 @@ class Solution:
         self.invertTree(root.left)
         self.invertTree(root.right)
         return root
+    
+
+#JavaScript
+
+# var invertTree = function(root) {
+#     if(!root){
+#         return null;
+#     }
+#     temp = root.left;
+#     root.left=root.right;
+#     root.right=temp;
+#     invertTree(root.left)
+#     invertTree(root.right)
+#     return root
+# };
 

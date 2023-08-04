@@ -29,3 +29,8 @@ Follow up: What if the inputs contain Unicode characters? How would you adapt yo
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         return Counter(s)==Counter(t)
+
+#JavaScript
+# var isAnagram = function(s, t) {
+#     return s.split('').sort().join('')===t.split('').sort().join('');
+# };

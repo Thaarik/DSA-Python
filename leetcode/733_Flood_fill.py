@@ -38,3 +38,24 @@ class Solution:
         self.fillColor(image,r+1,c,initial,color) #down
         self.fillColor(image,r,c-1,initial,color) #left
         self.fillColor(image,r,c+1,initial,color) #right
+
+#JavaScript
+
+# var floodFill = function(image, sr, sc, color) {
+#     function dfs(image,sr,sc,color,starting){
+#         if (sr<0 || sr>=image.length || sc<0 || sc>=image[0].length || image[sr][sc]==color){
+#             return
+#         }
+#         if(image[sr][sc]==starting){
+#             image[sr][sc]=color;
+#         dfs(image, sr-1,sc,color,starting)
+#         dfs(image, sr+1,sc,color,starting)
+#         dfs(image, sr,sc-1,color,starting)
+#         dfs(image, sr,sc+1,color,starting)
+#         }
+#     }
+#     starting = image[sr][sc]
+#     dfs(image,sr,sc,color,starting)
+#     return image
+
+# };
