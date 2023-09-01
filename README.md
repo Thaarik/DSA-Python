@@ -20,7 +20,8 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [39](https://leetcode.com/problems/combination-sum/description/) | [Combination Sum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/39_Combination_Sum.py) | Medium | Array | Recursion/Backtracking
 [40](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/39_Combination_Sum_II.py) | Medium | Array | Recursion/Backtracking
 [46](https://leetcode.com/problems/permutations/description/) | [Permutations](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/46_Permutations.py) | Medium | Array | Recursion/Backtracking
-[47](https://leetcode.com/problems/permutations-ii/description/) | [Permutations](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/46_Permutations_II.py) | Medium | Array | Recursion/Backtracking
+[47](https://leetcode.com/problems/permutations-ii/description/) | [Permutations II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/47_Permutations_II.py) | Medium | Array | Recursion/Backtracking
+[49](https://leetcode.com/problems/group-anagrams/description/) | [Group Anagrams](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/49_Group_Anagrams.py) | Medium | Array | Hashmap
 [51](https://leetcode.com/problems/n-queens/description/) | [N-Queens](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/51_N_Queens.py) | Hard | Array | Recursion/Backtracking
 [64](https://leetcode.com/problems/minimum-path-sum/description/) | [Minimum Path Sum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/64_Minimum_Path_Sum.py) | Medium | 2D Array | Dynamic Programming
 [70](https://leetcode.com/problems/climbing-stairs/description/)|[Climbing Stairs](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/70_Climbing_stairs.py) | Easy | Array | Dynamic Programming
