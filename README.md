@@ -32,7 +32,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [78](https://leetcode.com/problems/subsets/) | [Subsets](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/78_Subsets.py) | Medium | Array | Recursion/Backtracking
 [79](https://leetcode.com/problems/word-search/description/) | [Word Search](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/79_Word_search.py) | Medium | Array | Backtracking
 [100](https://leetcode.com/problems/same-tree/) | [Same Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/100_Same_Tree.py) | Easy | Tree | Recursion
-101 | [Symmetric Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/101_Symmetric_tree.py) | Easy | Tree | Recursion
+[101](https://leetcode.com/problems/symmetric-tree/) | [Symmetric Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/101_Symmetric_tree.py) | Easy | Tree | Recursion
 [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Maximum Depth of Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/104_Maximum_depth_of_Binary_tree.py) | Easy | tree | BFS 
 [110](https://leetcode.com/problems/balanced-binary-tree/description/) | [Balanced Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/110_Balanced_Binary_Tree.py) | Easy | Tree | Recursion 
 [118](https://leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/118_Pascals_triangle.py) | Easy | Array | Iteration
