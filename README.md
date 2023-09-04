@@ -8,6 +8,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 ---|-------------------|-----------------|-----------------|--------------
 [1](https://leetcode.com/problems/two-sum/) | [Two Sums](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1_Two_sums.py) | Easy | Array | Hashmap
 [11](https://leetcode.com/problems/container-with-most-water/) | [Container with Most Water](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/11_Container_With_Most_Water.py) | Medium | Array | Two pointer
+[15](https://leetcode.com/problems/3sum/description/) | [3Sum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/15_3Sum.py) | Medium | Array | Two pointer
 [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Letter Combinations of a Phone Number](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/17_Letter_Combinations_of_a_Phone_Number.py) | Medium | Array | Backtracking/Recursion
 [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/19_remove_nth_node_of_Linkedlist.py) | Medium | LinkedList | Two pointer
 [20](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/20_Valid_Paranthesis.py) | Easy | Stack | Iteration/Hashmap 
