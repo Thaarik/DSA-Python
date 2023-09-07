@@ -31,6 +31,7 @@ Follow up: Your algorithm's time complexity must be better than O(n log n), wher
 
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        # O(k.log.n)
         res = {}
         s = set(nums)
         for i in nums:
@@ -52,3 +53,24 @@ class Solution:
     sort the 'res' hashmap
     The last 'k' keys containng the highest count values are the most frequent elements.
     '''
+
+        # O(n)
+        count = {}
+        freq = [[] for i in range(len(nums)+1)]
+        for n in nums:
+            count[n]=1+count.get(n,0)
+        for n,c in count.items():
+            freq[c].append(n)
+        res = []
+        for i in range(len(freq)-1, 0,-1):
+            for n in freq[i]:
+                res.append(n)
+                if len(res)==k:
+                    return res
+
+'''Approach:
+1. Bubble sort method.
+2. In this data structure (freq) we will have the count as index and its value is going to be those elements/list of elements in the nums that has index's count value.
+3. From this,return the last k elements in the freq.
+'''
+
