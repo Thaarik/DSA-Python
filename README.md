@@ -74,6 +74,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [700](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Search in Binary Search Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/700_Search_BST.py) | Easy | Tree | Recursive/ Iteration/BST
 [704](https://leetcode.com/problems/binary-search/description/) | [Binary Search](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/704_Binary_Search.py) | Easy | Array | Binary Search
 [733](https://leetcode.com/problems/flood-fill/description/) | [Binary Search](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/733_Flood_fill.py) | Easy | 2D Array | BFS
+[739](https://leetcode.com/problems/daily-temperatures/) | [Daily Temperatures](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/739_Daily_Temperatures.py) | Medium | Array | Stack
 [746](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Min Cost Climbing Stairs](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/746_Min_Cost_Climbing_Stairs.py) | Easy | Array | Dynamic Programming
 [763](https://leetcode.com/problems/partition-labels/) | [Partition Labels](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/763_Partition_labels.py) | Medium | Array | Hashmap
 [771](https://leetcode.com/problems/jewels-and-stones/) | [Jewels and Stones](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/771_Jewels_and_Stones.py) | Easy | Array | Counter
