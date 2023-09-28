@@ -44,6 +44,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/125_Valid_Palindrome.py) | Easy | String | Two pointer
 [128](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Longest Consecutive Sequence](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/128_Longest_Consecutive_Sequence.py) | Medium | Array | HashSet
 [141](https://leetcode.com/problems/linked-list-cycle/description/) | [Linked List Cycle](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/141_LinkedList_Cycle.py) | Easy | LinkedList | Two pointer
+[143](https://leetcode.com/problems/reorder-list/) | [Reorder List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/143_Reorder_list.py) | Medium | LinkedList | Two pointer
 [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Evaluate Reverse Polish Notation](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/150_Evaluate_Reverse_Polish_Notation.py) | Medium | Array | Stack
 [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Find Minimum in Rotated Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/153_Find_Minimum_in_Rotated_Sorted_Array.py) | Medium | Array | Binary Search
 [155](https://leetcode.com/problems/min-stack/) | [Min Stack](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/155_Min_Stack.py) | Medium | Array | Stack
