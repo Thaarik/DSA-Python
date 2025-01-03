@@ -38,7 +38,7 @@ class Solution:
             count=[0]*26
             for char in s:
                 count[ord(char)-ord('a')]+=1
-            ans[tuple(count)].append(s)
+            ans[tuple(count)].append(s) # if tuple(count) exist in ans, then append s inside it i.e., inside existing nested list. If not, then append in a new nested list.
 
         return ans.values()
 
