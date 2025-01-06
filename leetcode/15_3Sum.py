@@ -43,8 +43,8 @@ class Solution:
         res = []
         nums.sort()
         for i,a in enumerate(nums):
-            if i>0 and a==nums[i-1]:
-                continue
+            if i>0 and a==nums[i-1]: 
+                continue # to skip this iteration when there is a duplicate after sorting
             l = i+1
             r = len(nums)-1
             while l<r:
@@ -55,8 +55,8 @@ class Solution:
                     l+=1
                 else:
                     res.append([a,nums[l],nums[r]])
-                    l+=1
-                    while nums[l]==nums[l-1] and l<r:
+                    l+=1 # left pointer move is enough. 
+                    while nums[l]==nums[l-1] and l<r: # to avoid duplicates and left <= right
                         l+=1
         return res
 
