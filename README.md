@@ -21,6 +21,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [35](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/35_search_Insert_Position.py) | Easy | Array | Binary Search
 [39](https://leetcode.com/problems/combination-sum/description/) | [Combination Sum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/39_Combination_Sum.py) | Medium | Array | Recursion/Backtracking
 [40](https://leetcode.com/problems/combination-sum-ii/description/) | [Combination Sum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/39_Combination_Sum_II.py) | Medium | Array | Recursion/Backtracking
+[42](https://leetcode.com/problems/trapping-rain-water/description/) | [Trapping Rain Water](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/42_Trapping_Rain_Water.py) | Hard | Array | Two Pointer
 [46](https://leetcode.com/problems/permutations/description/) | [Permutations](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/46_Permutations.py) | Medium | Array | Recursion/Backtracking
 [47](https://leetcode.com/problems/permutations-ii/description/) | [Permutations II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/47_Permutations_II.py) | Medium | Array | Recursion/Backtracking
 [49](https://leetcode.com/problems/group-anagrams/description/) | [Group Anagrams](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/49_Group_Anagrams.py) | Medium | Array | Hashmap
