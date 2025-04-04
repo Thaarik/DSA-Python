@@ -81,6 +81,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [643](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Maximum Average Subarray I](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/643_Maximum_Average_subarray_I.py) | Easy | Array | Sliding window
 [695](https://leetcode.com/problems/max-area-of-island/description/) | [Max Area of Island](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/695_max_area_of_island.py) | Medium | 2DArray | BFS
 [700](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Search in Binary Search Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/700_Search_BST.py) | Easy | Tree | Recursive/ Iteration/BST
+[701](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Search in Binary Search Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/701_Insert_into_a_Binary_Search_Tree.py) | Medium | Tree | Recursive/ Iteration/BST
 [704](https://leetcode.com/problems/binary-search/description/) | [Binary Search](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/704_Binary_Search.py) | Easy | Array | Binary Search
 [733](https://leetcode.com/problems/flood-fill/description/) | [Binary Search](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/733_Flood_fill.py) | Easy | 2D Array | BFS
 [739](https://leetcode.com/problems/daily-temperatures/) | [Daily Temperatures](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/739_Daily_Temperatures.py) | Medium | Array | Stack
