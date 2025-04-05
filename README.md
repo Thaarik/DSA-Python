@@ -52,7 +52,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Find Minimum in Rotated Sorted Array](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/153_Find_Minimum_in_Rotated_Sorted_Array.py) | Medium | Array | Binary Search
 [155](https://leetcode.com/problems/min-stack/) | [Min Stack](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/155_Min_Stack.py) | Medium | Array | Stack
 [162](https://leetcode.com/problems/find-peak-element/description/) | [Find Peak Elements](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/162_Find_Peak_Element.py) | Medium | Array | Binary Search
-[199](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Number of Islands](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/199_Binary_Tree_Right_Side_view.py) | Medium | Tree | BFS/DFS
+[199](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Binary Tree Right Side View](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/199_Binary_Tree_Right_Side_view.py) | Medium | Tree | BFS/DFS
 [200](https://leetcode.com/problems/number-of-islands/description/) | [Number of Islands](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/200_Number_of_Islands.py) | Medium | 2D Array | BFS/DFS
 [203](https://leetcode.com/problems/remove-linked-list-elements/) | [Remove Linked List Elements](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/203_Remove_Linkedlist_Elements.py) | Easy | LinkedList | Two pointer
 [206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/206_Reverse_LinkedList.py) | Easy | LinkedList | Iteration/Recursive
@@ -104,5 +104,6 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [1254](https://leetcode.com/problems/number-of-closed-islands/description/) | [Number of Closed Islands](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1254_Number_of_Closed_Islands.py) | Medium | 2DArray | DFS
 [1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [How Many Numbers Are Smaller Than the Current Number](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1365_how_many_numbers_are_smaller_than_the_current_number.py) | Easy | Array | Hashmap
 [1428](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/) | [Minimum Number of Days to Make m Bouquets](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1482_Minimum_Number_of_Days_to_Make_m_Bouquets.py) | Medium | Array | Binary Search
+[1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Count Good Nodes in Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/1448_Count_Good_Nodes_In_BinaryTree.py) | Medium | Tree | DFS
 
 
