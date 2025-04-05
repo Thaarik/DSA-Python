@@ -42,9 +42,6 @@ The number of nodes in the tree is in the range [1, 104].
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        '''recursion : check every subtree.if it is eligible it should go down to None subtree and return false. 
-        If it is not true with the condition, return false. 
-        Also initially check with - inf and +inf '''
         def valid(node, left,right):
             if not node:
                 return True
@@ -52,6 +49,45 @@ class Solution:
                 return False
             return(valid(node.left,left,node.val) and valid(node.right,node.val,right))
         return valid(root,float('-inf'),float('inf'))
+    
+# Check Valid Binary Search Tree - O(n) time complexity
+# 
+# Approach: Use recursive validation with range constraints
+# Each node must satisfy: left_bound < node.val < right_bound
+#
+# Examples of constraints:
+#
+#           5
+#         /   \
+#        3     7
+#       / \   / \
+#      2   4 6   8
+#
+# Node 5: (-∞ < 5 < ∞) ✓
+# Node 3: (-∞ < 3 < 5) ✓
+# Node 7: (5 < 7 < ∞) ✓
+# Node 2: (-∞ < 2 < 3) ✓
+# Node 4: (3 < 4 < 5) ✓
+# Node 6: (5 < 6 < 7) ✓
+# Node 8: (7 < 8 < ∞) ✓
+
+# 
+# Invalid example:
+#           5
+#         /   \
+#        3     7
+#       / \   / \
+#      2   6 6   8
+#          ↑
+# Node 6 on right fails: Not (5 < 6 < 7) ✗
+# Node 6 on left fails: Not (3 < 6 < 5) ✗
+#
+# Steps:
+# 1. Begin validation at root with (-∞, ∞) range
+# 2. For left child, update upper bound to parent's value
+# 3. For right child, update lower bound to parent's value
+# 4. Return false if any node violates its constraints
+
             
 
             
