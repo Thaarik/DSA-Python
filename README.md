@@ -38,6 +38,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [100](https://leetcode.com/problems/same-tree/) | [Same Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/100_Same_Tree.py) | Easy | Tree | Recursion
 [101](https://leetcode.com/problems/symmetric-tree/) | [Symmetric Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/101_Symmetric_tree.py) | Easy | Tree | Recursion
 [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Maximum Depth of Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/104_Maximum_depth_of_Binary_tree.py) | Easy | tree | BFS 
+[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/105_Construct_BT_From_Preorder_And_Inorder_Traversal.py) | Medium | tree | DFS 
 [110](https://leetcode.com/problems/balanced-binary-tree/description/) | [Balanced Binary Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/110_Balanced_Binary_Tree.py) | Easy | Tree | Recursion 
 [118](https://leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/118_Pascals_triangle.py) | Easy | Array | Iteration
 [119](https://leetcode.com/problems/pascals-triangle-ii/) | [Pascal's Triangle II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/119_Pascals_Triangle_2.py) | Easy | Array | Iteration/Recursion
