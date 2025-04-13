@@ -71,6 +71,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [256](https://www.lintcode.com/problem/515/)|[256_Paint_House](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/256_Paint_House.py) | Medium | 2D Array | Dynamic Programming
 [278](https://leetcode.com/problems/first-bad-version/) | [First Bad Version](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/278_First_Bad_Version.py) | Easy | Array | Binary Search
 [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/287_FInd_the_Duplicate_Number.py) | Medium | Array/LinkedList | Floyd's Cyclic Detection/Two pointers
+[337](https://leetcode.com/problems/house-robber-iii/)|[House Robber III](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/337_House_Robber_III.py)| Medium | Tree | DFS/Dynamic Programming
 [344](https://leetcode.com/problems/reverse-string/) | [Reverse String](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/344_reverse_strings.py) | Easy | String | Two pointer/Recursion
 [347](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Top K Frequent Elements](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/347_Top_K_Frequent_Elements.py) | Medium | Array | HashSet
 [349](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [Intersection of Two Arrays](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/349_Intersection_of_Two_Array.py) | Easy | Array | Binary Search
