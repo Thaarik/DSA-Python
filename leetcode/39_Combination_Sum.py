@@ -63,3 +63,35 @@ class Solution:
 '''Approach: Backtracing
 
 1. Same like subset (78. Subsets) except we are reusing the candidates value and finding all solutions.'''
+
+    #Updated:
+def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        res=[]
+        current=[]
+        
+        def backtrack(target,i):
+            if target==0:
+                res.append(current[:])
+                return
+            elif target<0 or i==len(candidates):
+                return
+            current.append(candidates[i])
+            backtrack(target-candidates[i],i) # not i+1 because we are reusing the candidates[i]
+            current.pop()
+            backtrack(target,i+1)
+
+        backtrack(target,0)
+        return res
+
+        # Updated approach:
+        # 1. Use Backtracking function
+        # if target is zero then append the current list to result
+        # if target is less than zero then return
+        # else iterate through the candidates list
+        # append the current candidate to the current list
+        # call the backtracking function with target-candidates[i] and i
+        # pop the last element from the current list
+        # call the backtracking function with target and i+1
+        # return the result list
+        # Time complexity: O(2^n)
+        # Space complexity: O(n)
