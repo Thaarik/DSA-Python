@@ -47,17 +47,47 @@ class Solution:
                     current.append(nums[i])
                     self.backtrack(nums,current,result)
                     current.remove(nums[i])
-''' Approach:
-1. Backtracking approach
-2. Create current and result list (empty)
-3. We  are finding all solutions. So, create a backtrack function. 
-4. for every number in the nums list, if the number is already present in the current list, skip, else,append that number into the current,
-    and recursively call the backtrack function.
-5. When the current list hits the base case, i.e., len of current  == len of nums, then append that current list into the result list. 
-6. After the above step, when it comes back to the previous state, the current removes the state's num and moves on the next iteration of   for loop. With this we get all permutation solution.
 
-backtrack level 0:                                      []
-backtrack level 1:                [1]                   [2]                    [3]
-backtrack level 2:           [1,2]  [1,3]           [2.1]  [2,3]         [3,1]    [3,2]
-backtrack level 3:         [1,2,3]  [1,3,2 ]      [2,1,3]  [2,3,1]      [3,1,2]  [3,2,1]
-'''
+# Approach 1: Backtracking
+# Steps:
+# 1. Use backtracking to explore all possible permutations
+# 2. Maintain two lists: 
+#    - Current permutation being built (curr)
+#    - Result list to store all valid permutations (res)
+# 3. In each recursive call:
+#    - If curr is complete (same length as input), add to result
+#    - Otherwise, try adding each unused number to curr
+#    - Backtrack by removing the last added element before trying next possibility
+# 4. Skip elements already in curr to avoid duplicates
+# Time: O(n!) - we generate n! permutations
+# Space: O(n) - for the recursion stack and current permutation
+
+        # Approach 2
+        if len(nums)==0:
+            return [[]]
+        perm = self.permute(nums[1:])
+        res=[]
+        for p in perm:
+            for i in range(len(p)+1):
+                perm_copy = p[:]
+                perm_copy.insert(i,nums[0])
+                res.append(perm_copy)
+        return res
+    
+
+
+# Approach 2: Recursive Insertion
+# Steps:
+# 1. Base case: empty list returns a list containing empty permutation
+# 2. Recursive step:
+#    - Extract first element of array (nums[0])
+#    - Find all permutations of remaining elements (nums[1:]) recursively
+#    - For each permutation found, create new permutations by inserting
+#      the first element at every possible position
+# 3. Example with [1,2,3]:
+#    - Get permutations of [2,3] → [[2,3], [3,2]]
+#    - Insert 1 in all positions:
+#      * [1,2,3], [2,1,3], [2,3,1]
+#      * [1,3,2], [3,1,2], [3,2,1]
+# Time: O(n!) - we generate n! permutations
+# Space: O(n) - for the recursion stack
