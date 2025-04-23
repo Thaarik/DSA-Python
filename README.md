@@ -48,6 +48,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [124](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [ Binary Tree Maximum Path Sum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/124_Binary_Tree_Maximum_Path_Sum.py) | Hard | Tree | DFS
 [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/125_Valid_Palindrome.py) | Easy | String | Two pointer
 [128](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Longest Consecutive Sequence](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/128_Longest_Consecutive_Sequence.py) | Medium | Array | HashSet
+[131](https://leetcode.com/problems/palindrome-partitioning/) | [Palindrome Partioning](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/131_Palindrome_Partioning.py) | Medium | Array | Backtracking
 [138](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Copy List with Random Pointer](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/138_Copy_List_with_Random_Pointer.py) | Medium | LinkedList | Two Passes
 [141](https://leetcode.com/problems/linked-list-cycle/description/) | [Linked List Cycle](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/141_LinkedList_Cycle.py) | Easy | LinkedList | Two pointer
 [143](https://leetcode.com/problems/reorder-list/) | [Reorder List](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/143_Reorder_list.py) | Medium | LinkedList | Two pointer
