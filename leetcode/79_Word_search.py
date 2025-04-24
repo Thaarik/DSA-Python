@@ -67,3 +67,62 @@ class Solution:
         return False 
 
 #TC : O(N * M * 4 ^ (backtrack))
+
+# Word Search
+# Approach: Backtracking/DFS
+# Steps:
+# 1. For each cell in the board, try starting the word search from there
+# 2. Use backtracking to explore adjacent cells (up, down, left, right)
+# 3. Keep track of visited cells using a set to avoid reusing same cell
+# 4. Stop when either the word is found or all possibilities are exhausted
+#
+# Diagram of recursive calls for board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "SEE":
+#
+# Starting from each cell, but illustration shows only successful path:
+#
+# Start at board[1][0] = "S"  (path = {(1,0)})
+#   |
+#   |-- backtrack(1,0,0) - Checking 'S' matches word[0]='S' ✓
+#       |
+#       |-- backtrack(2,0,1) - Down - 'A' ≠ word[1]='E' ✗
+#       |
+#       |-- backtrack(0,0,1) - Up - 'A' ≠ word[1]='E' ✗
+#       |
+#       |-- backtrack(1,1,1) - Right - 'F' ≠ word[1]='E' ✗
+#       |
+#       |-- backtrack(1,-1,1) - Left - Out of bounds ✗
+#
+# Start at board[2][2] = "E"
+#   |
+#   |-- backtrack(2,2,1) - Checking 'E' matches word[1]='E' ✓ (path = {(1,0), (2,2)})
+#       |
+#       |-- backtrack(3,2,2) - Down - Out of bounds ✗
+#       |
+#       |-- backtrack(1,2,2) - Up - 'C' ≠ word[2]='E' ✗
+#       |
+#       |-- backtrack(2,3,2) - Right - 'E' matches word[2]='E' ✓ (path = {(1,0), (2,2), (2,3)})
+#           |
+#           |-- backtrack(3,3,3) - Index 3 = len(word) ✓ Found complete word!
+#           |   Return True
+#           |
+#           |-- Remove (2,3) from path
+#       |
+#       |-- Remove (2,2) from path
+#   |
+#   |-- Remove (1,0) from path
+#
+# Visual representation of the successful path on the board:
+#
+# [["A","B","C","E"],
+#  ["S","F","C","S"],  -> Start at S, then move to E, then to E
+#  ["A","D","E","E"]]
+#               ^
+#               |
+#               End here
+#
+# Time: O(N * M * 4^L) where N,M are board dimensions, L is word length, 4 is for four directions
+# Space: O(L) for recursion stack depth and path set
+#
+# Optimization tip: We could check if all required letters exist in the board before starting,
+# or sort the word locations by frequency to start with rare letters first.
+
