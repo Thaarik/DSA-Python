@@ -74,4 +74,78 @@ class Solution:
         if freshorangecount >0:
             return -1
         return minutes
+    
+    # Approach:
+
+# Rotting Oranges
+# Approach: BFS (Breadth-First Search) with Queue
+# Steps:
+# 1. Count fresh oranges and identify initial rotten oranges
+# 2. Use BFS to simulate the rotting process minute by minute
+# 3. In each minute, rot all fresh oranges adjacent to currently rotten ones
+# 4. Continue until no more oranges can rot or all are rotten
+#
+# Diagram for grid = [[2,1,1],[1,1,0],[0,1,1]]:
+#
+# Initial state (minute 0):
+# [
+#   [2, 1, 1],  // 2 = rotten orange, 1 = fresh orange, 0 = empty
+#   [1, 1, 0],
+#   [0, 1, 1]
+# ]
+# Queue: [(0,0)]  // Position of initial rotten orange
+# Fresh oranges: 6
+#
+# Minute 1:
+# - Pop (0,0), check neighbors: (0,1) and (1,0) become rotten
+# [
+#   [2, 2, 1],  // Orange at (0,1) rots
+#   [2, 1, 0],  // Orange at (1,0) rots
+#   [0, 1, 1]
+# ]
+# Queue: [(0,1), (1,0)]  // New rotten oranges
+# Fresh oranges: 4
+#
+# Minute 2:
+# - Pop (0,1), check neighbors: (0,2) becomes rotten
+# - Pop (1,0), check neighbors: (1,1) becomes rotten
+# [
+#   [2, 2, 2],  // Orange at (0,2) rots
+#   [2, 2, 0],  // Orange at (1,1) rots
+#   [0, 1, 1]
+# ]
+# Queue: [(0,2), (1,1)]  // New rotten oranges
+# Fresh oranges: 2
+#
+# Minute 3:
+# - Pop (0,2), no new rotten oranges
+# - Pop (1,1), check neighbors: (2,1) becomes rotten
+# [
+#   [2, 2, 2],
+#   [2, 2, 0],
+#   [0, 2, 1]   // Orange at (2,1) rots
+# ]
+# Queue: [(2,1)]  // New rotten oranges
+# Fresh oranges: 1
+#
+# Minute 4:
+# - Pop (2,1), check neighbors: (2,2) becomes rotten
+# [
+#   [2, 2, 2],
+#   [2, 2, 0],
+#   [0, 2, 2]   // Orange at (2,2) rots
+# ]
+# Queue: [(2,2)]  // New rotten oranges
+# Fresh oranges: 0
+#
+# Minute 4 ends, all oranges are rotten, return 4
+#
+# Time: O(N×M) where N and M are dimensions of the grid
+#       - We visit each cell at most once
+#
+# Space: O(N×M) for the queue in worst case
+#       - When all oranges are rotten and added to queue
+#
+# Key insight: Level-by-level BFS perfectly simulates the "minute-by-minute" rotting process
+
                     
