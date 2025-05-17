@@ -72,6 +72,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [239](https://leetcode.com/problems/sliding-window-maximum/description/) | [Sliding Window MAximum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/239_Sliding_Window.py) | Hard | Array(Deque) | Sliding Window
 [242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/242_Valid_Anagram.py) | Easy | Array | -
 [256](https://www.lintcode.com/problem/515/)|[256_Paint_House](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/256_Paint_House.py) | Medium | 2D Array | Dynamic Programming
+[261](https://www.lintcode.com/problem/178/)|[Graph Valid Tree](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/261_Graph_Valid_Tree.py) | Medium | Graph | DFS
 [278](https://leetcode.com/problems/first-bad-version/) | [First Bad Version](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/278_First_Bad_Version.py) | Easy | Array | Binary Search
 [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/287_FInd_the_Duplicate_Number.py) | Medium | Array/LinkedList | Floyd's Cyclic Detection/Two pointers
 [337](https://leetcode.com/problems/house-robber-iii/)|[House Robber III](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/337_House_Robber_III.py)| Medium | Tree | DFS/Dynamic Programming
