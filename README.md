@@ -26,6 +26,7 @@ Leetcode Number | Leetcode Problem Title | Difficulty | Data Structure | Algorit
 [47](https://leetcode.com/problems/permutations-ii/description/) | [Permutations II](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/47_Permutations_II.py) | Medium | Array | Recursion/Backtracking
 [49](https://leetcode.com/problems/group-anagrams/description/) | [Group Anagrams](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/49_Group_Anagrams.py) | Medium | Array | Hashmap
 [51](https://leetcode.com/problems/n-queens/description/) | [N-Queens](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/51_N_Queens.py) | Hard | Array | Recursion/Backtracking
+[62](https://leetcode.com/problems/unique-paths/) | [Unique Paths](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/62_Unique_Paths.py) | Medium | 2D Array | Dynamic Programming
 [64](https://leetcode.com/problems/minimum-path-sum/description/) | [Minimum Path Sum](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/64_Minimum_Path_Sum.py) | Medium | 2D Array | Dynamic Programming
 [70](https://leetcode.com/problems/climbing-stairs/description/)|[Climbing Stairs](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/70_Climbing_stairs.py) | Easy | Array | Dynamic Programming
 [72](https://leetcode.com/problems/edit-distance/description/) | [Edit Distance](https://github.com/Thaarik/DSA-Python/blob/main/leetcode/72_Edit_Distance.py) | Medium | String | Dynamic Programming
