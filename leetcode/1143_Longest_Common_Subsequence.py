@@ -93,3 +93,30 @@ class Solution:
 # Time: O(m*n) - we fill each cell in the dp table once
 # Space: O(m*n) - we need to store the entire dp table
 
+
+'''
+Optimized with space:
+
+class Solution:
+    def longestCommonSubsequence(self, text1: str, text2: str) -> int:
+        m, n = len(text1), len(text2)
+        dp = [0] * (n + 1)
+        for r in range(m - 1, -1, -1):
+            prev = 0
+            for c in range(n - 1, -1, -1):
+                temp = dp[c]
+                if text1[r] == text2[c]:
+                    dp[c] = 1 + prev
+                else:
+                    dp[c] = max(dp[c], dp[c + 1])
+                prev = temp
+        return dp[0]
+
+# Longest Common Subsequence with space optimization    
+# Approach: Dynamic Programming with Space Optimization
+# Steps:# 1. Use a 1D DP array instead of a 2D table to save space
+# 2. Iterate through the rows of text1 and update the DP array for each character in text2
+# 3. Use a temporary variable to store the previous value needed for the current calculation
+# 4. Return the first element of the DP array which contains the length of the longest common subsequence
+              
+'''
